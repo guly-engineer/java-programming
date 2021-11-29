@@ -1,4 +1,4 @@
-package chapter8;
+package exercises.chapter8;
 
 public class UserCredential {
     String username;
